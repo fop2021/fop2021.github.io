@@ -20,16 +20,7 @@ lessons:
   - title: "Lesson 1 - Introduction, Numbers in Computer"
     body: lesson_1
 
-  - title: "Lesson 1 : Know the basics"
-    requirements: "Search, Search, Search"
-    description: "These are the essentials, learn them well while doing
-      <b>Exercise 1</b> and please learn how to search."
-    body: lesson_1
-
-  - title: "Lesson 2 : Clean Code"
-    requirements: "Some of your previous codes, get the soap ready"
-    description: "Keeping your code clean is a very
-      important step in becoming a good programmer."
+  - title: "Lesson 2 - Algorithms and Flowcharts"
     body: lesson_2
 
   - title: "Review 1"
