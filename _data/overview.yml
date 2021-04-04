@@ -1,22 +1,14 @@
-title: Why choose Sharif’s AP course?
-content: "First of all, it’s free! So why not? ^__^
-  <br>
-  Also, presented by Sharif University of Technology - the best university in the country (QS
-  2017-present) -
-  this may be the best course you could get your hands on. Designed in a user-friendly manner,
-  the course consists
-  of videos, exercises, sample questions and even a project to further your knowledge and gain
-  hands-on experience.
-  Our goal is to guide you through this so-called thorn-filled path and make learning easier
-  for you.
-  <br>
-  Final word, Welcome to SUTAP!
-  <br>
-  What will you learn:"
+title: FOP 2021 - Sharif
+content: "This course is a complete introduction to programming by C, suitable for both students with no prior knowledge to programming, and experts who want to practice
+programming more. <br>
+All videos and contents are recorded and saved during the first semester of 1399-1400, which include lecture videos, TA and problem solving classes, programming project
+workshops, assignments, project documents and CodeNameh newsletter weekly issues. <br>
+One can easily follow the provided flow to learn all the fundamentals of programming in C, exactly as provided to students of the best university in the country (QS 2017-present)."
 items:
-  - Java Programming Language
-  - Object Oriented Programming
-  - Graphics in Java using JavaFX
-  - Network and Socket Programming
-  - Software Design Patterns
-  - Parallelism and Multi-Thread
+  - Processing in Computers
+  - Introduction to Algorithms 
+  - C Programming Language
+  - Control Flow in Programming
+  - Recursive Programming
+  - Data Structures and Arrays
+  - Pointers and Structs
