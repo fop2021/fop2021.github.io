@@ -17,8 +17,8 @@ includes:
 subtitle: Course Content
 
 lessons:
-  - title: "Lesson 0 - Introduction, Numbers in Computer"
-    body: lesson_0
+  - title: "Lesson 1 - Introduction, Numbers in Computer"
+    body: lesson_1
 
   - title: "Lesson 1 : Know the basics"
     requirements: "Search, Search, Search"
