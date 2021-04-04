@@ -22,6 +22,9 @@ lessons:
 
   - title: "Lesson 2 - Algorithms and Flowcharts"
     body: lesson_2
+    
+  - title: "Assignment 0 - Numbers, Algorithms, Flowcharts"
+    body: assignment_0
 
   - title: "Review 1"
     requirements: "Exercise 1, Data Structures"
